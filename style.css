@@ -1,0 +1,146 @@
+body, html, * {
+    margin: 0;
+	padding: 0;
+	font: 1em "Open Sans", sans-serif;
+}
+
+/*------------------ main header -----------------*/
+.mainheader nav{
+    background-color:#192a56;
+    height: 50px;
+    
+}
+
+.mainheader nav ul{
+    padding-top: 15px;
+    color: white;
+    text-align: center;
+    list-style: none;
+    margin: 0 auto;
+    
+}
+.mainheader nav ul li{
+    padding: 10px;
+    display: inline;
+    color: white;
+}
+.mainheader  #logo{
+	float: left;
+	height:30;
+    margin-left: 250px;
+	padding: 15px 30px;
+	font-size: 1.2em;
+    color: white;
+	
+} 
+
+
+.content nav{
+     background-color:#00cc99;
+     height: 280px;   
+}
+ img {
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+    height: 150px;
+    width: 150px;
+}
+ h2 {
+    text-align: center;
+    color: white;
+     font-size: 1.5em;
+}
+h6{
+    text-align: center;
+    color: white;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+    color:black;
+    font-weight: bolder;
+    font-size: 1.5em;
+    
+}
+ .gallery{
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 350px;
+}
+
+.gallery img{
+    width: 100px;
+    margin: 10px 10px 5px 10px;
+    display: inline;
+    
+}
+.content3 nav {
+     background-color:#00cc99;
+     height: 200px;   
+}
+.content3 h1{
+    padding-top: 40px;
+    color: white;
+}
+p{
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px; 
+}
+
+.content4 h2{
+    margin-top: 40px;
+}
+
+
+/* Style inputs, select elements and textareas */
+form{
+    margin-left: 400px;
+    margin-right: 200px;
+    padding: 10px;
+}
+input{
+    width: 400px;
+    height:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+textarea{
+    height:130px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#submit{
+    height:40px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #00cc99;
+    color:white;
+}
+
+.footer{
+    
+    width: 100%;
+    background-color:#192a56;
+    height: 50px;
+}
+
+.footer p{
+    text-align:center;
+    color: white;
+    padding: 15px;
+}
+
+
+
+
+
